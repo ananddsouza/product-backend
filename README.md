@@ -32,7 +32,7 @@ For the development of this project, VS Code was used with a bunch of extensions
 
 - Go to Project --> product\src\main\java\com\example\product\ProductApplication.java
 - Right Click on file and select Run 
-- If VSCode is being used, dev should be able to see an option "Run" in the codelens of the file ProductApplication.jva just like below image.
+- If VSCode is being used, dev should be able to see an option "Run" in the codelens of the file ProductApplication.java just like below image.
 
   ![image](https://user-images.githubusercontent.com/49438392/149133462-2c35beff-95f3-46f5-9d3b-324435cc0051.png)
 
