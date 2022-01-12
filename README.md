@@ -9,6 +9,8 @@ A simple backend service for products of online shop.
 - DB Tool: [pgAdmin](https://www.pgadmin.org/)
 
 
+# Steps 
+
 This walkthrough assumes familiarity with Java and other common build tools like Maven as prerequisite.
 
 Clone the git repository.
@@ -26,9 +28,10 @@ If the project is to be run on other IDEs such as Eclipse, run the following com
 mvn install
 ```
 
-For the development of this project, VS Code was used with a bunch of extensions (Can be found in the repo itself)
+For the development of this project, VS Code was used with a bunch of [extensions](https://github.com/ananddsouza/product-backend/blob/main/extensions.list)
+These extensions helped in creating a Spring boot project and alos providing necessary Codelens and Autcomplete features.
 
-# Running the Service
+## Running the Service
 
 - Go to Project --> product\src\main\java\com\example\product\ProductApplication.java
 - Right Click on file and select Run 
