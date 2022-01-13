@@ -7,6 +7,7 @@ A simple backend service for products of online shop.
 - Database: [PostgreSQL](https://www.postgresql.org/)
 - IDE/Code Editor: [VS Code](https://code.visualstudio.com/)
 - DB Tool: [pgAdmin](https://www.pgadmin.org/)
+- API Execution : [Postman](https://www.postman.com/)
 
 
 # Steps 
@@ -39,3 +40,8 @@ These extensions helped in creating a Spring boot project and alos providing nec
 
   ![image](https://user-images.githubusercontent.com/49438392/149133462-2c35beff-95f3-46f5-9d3b-324435cc0051.png)
 
+
+## Postman
+
+For development purpose, Postman Tool has been used to perform CRUD operations on Product service. The dat created this way has been use to test the frontend application.
+In the repo, attached is a postman collection which on import unfolds the CRUD operations and the respective details.
