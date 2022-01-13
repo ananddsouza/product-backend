@@ -43,5 +43,5 @@ These extensions helped in creating a Spring boot project and alos providing nec
 
 ## Postman
 
-For development purpose, Postman Tool has been used to perform CRUD operations on Product service. The dat created this way has been use to test the frontend application.
+For development purpose, Postman Tool has been used to perform CRUD operations on Product service. The data created this way has been used to test the frontend application.
 In the repo, attached is a postman collection which on import unfolds the CRUD operations and the respective details.
