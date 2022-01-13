@@ -33,7 +33,7 @@ These extensions helped in creating a Spring boot project and alos providing nec
 
 ## Running the Service
 
-- Go to Project --> product\src\main\java\com\example\product\ProductApplication.java
+- Go to cloned repo --> product\src\main\java\com\example\product\ProductApplication.java
 - Right Click on file and select Run 
 - If VSCode is being used, dev should be able to see an option "Run" in the codelens of the file ProductApplication.java just like below image.
 
